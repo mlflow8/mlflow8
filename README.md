@@ -1,6 +1,6 @@
 👋 Hi, I’m @mlflow8
-- 👀 I’m interested in Mlopd
-- 🌱 I’m currently learning Mlopd dl Ml 
+- 👀 I’m interested in Mlops
+- 🌱 I’m currently learning Mlops dl Ml 
 - 💞️ I’m looking to collaborate 
 
 
